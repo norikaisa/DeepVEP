@@ -21,4 +21,5 @@ achieved an AUC of 0.908 and an accuracy of 90.8% (sensitivity: 94.3%; specifici
 accuracy, which suggests its possible clinical use.
 
 
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/norikaisa/DeepVEP/blob/master/Figure%201.jpg" width="300" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/norikaisa/DeepVEP/blob/master/Figure%202.jpg" width="300" height="300" alt="图片加载失败时，显示这段字"/>
