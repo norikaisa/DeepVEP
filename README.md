@@ -19,3 +19,6 @@ CI: 0.976–0.994) and an accuracy of 94.6%(95%CI: 93.6–95.6%). The ensemble m
 achieved an AUC of 0.908 and an accuracy of 90.8% (sensitivity: 94.3%; specificity:
 87.7%). The automated workflow for analyzing mfVEP plots achieved high AUC and
 accuracy, which suggests its possible clinical use.
+
+
+<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
