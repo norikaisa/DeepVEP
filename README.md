@@ -20,5 +20,10 @@ achieved an AUC of 0.908 and an accuracy of 90.8% (sensitivity: 94.3%; specifici
 87.7%). The automated workflow for analyzing mfVEP plots achieved high AUC and
 accuracy, which suggests its possible clinical use.
 
+Imput:
 
-<img src="https://github.com/norikaisa/DeepVEP/blob/master/Figure%201.jpg" width="600" height="300" alt="图片加载失败时，显示这段字"/><img src="https://github.com/norikaisa/DeepVEP/blob/master/Figure%202.jpg" width="300" height="300" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/norikaisa/DeepVEP/blob/master/Figure%201.jpg" width="600" height="300" alt="图片加载失败时，显示这段字"/>
+
+Output:
+
+<img src="https://github.com/norikaisa/DeepVEP/blob/master/Figure%202.jpg" width="400" height="300" alt="图片加载失败时，显示这段字"/>
